@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Akerke 👋
 
-<!--
-**just-erkesha/just-erkesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+**Languages:** Python, Swift, SQL, HTML/CSS  
+**Tools:** Git, Figma, Instagram Analytics  
+**Currently learning:** pandas, scikit-learn, ML fundamentals
 
-Here are some ideas to get you started:
+## 📚 Certifications
+- Elements of AI — University of Helsinki
+- CS50 AI with Python — Harvard University
+- Google AI Essentials — Google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+kaldyurazova28@gmail.com
